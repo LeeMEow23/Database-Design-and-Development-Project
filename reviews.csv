@@ -1,0 +1,9 @@
+review_id,food_score,comment_on_food,reservation_id,restaurant_id
+1,8,good,1,5
+2,7,food is spicy,2,5
+3,10,food is awesome,3,5
+4,7,not bad,4,5
+5,3,too salty,5,2
+6,5,food is cold,6,1
+7,8,I like the fries,7,4
+8,6,the food is so-so,8,3

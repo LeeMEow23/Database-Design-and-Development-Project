@@ -1,0 +1,6 @@
+restaurant_id,city,cuisine_type,restaurant_name,manager_id
+1,pittsburgh,American,Pamela's Diner,1
+2,pittsburgh,American,KFC,2
+3,pittsburgh,American,The Cheesecake Factory,3
+4,pittsburgh,Asian,Hunan,4
+5,pittsburgh,Mexican,Chipotle,5

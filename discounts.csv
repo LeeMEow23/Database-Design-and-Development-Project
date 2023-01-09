@@ -1,0 +1,6 @@
+discount_id,discount_description,discount_available_date,restaurant_id
+1,Free drinks!,12/31/2022,1
+2,Free appetizers!,12/31/2022,1
+3,"Buy one drink, get one free!",12/31/2022,2
+4,25% off for all food,1/1/2023,5
+5,50% off for all drinks,1/1/2023,4
